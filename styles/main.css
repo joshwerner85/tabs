@@ -1,3 +1,6 @@
+.red, .green, .blue {
+  display: none; }
+
 .tabs {
   overflow: hidden;
   clear: both; }
@@ -13,10 +16,9 @@
 a {
   display: block;
   padding: 5px 10px;
-  background-color: #EEE;
+  background-color: white;
   color: #000;
   text-decoration: none;
-  margin: 0 4px;
   border-top: 1px solid #CCC;
   border-left: 1px solid #DDD;
   border-right: 1px solid #DDD;
@@ -35,5 +37,8 @@ a {
   font-size: 13px;
   background-color: #fff;
   display: none; }
+
+/*# sourceMappingURL=main.css.map 
+*/
 
 /*# sourceMappingURL=main.css.map */
